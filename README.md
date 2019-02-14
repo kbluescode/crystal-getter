@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kbluescode/crystal-getter.svg?branch=master)](https://travis-ci.org/kbluescode/crystal-getter)
+
 # getter
 
 Getter is a basic CLI written in crystal to handle an HTTP GET request to a url.
