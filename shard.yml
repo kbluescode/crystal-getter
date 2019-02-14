@@ -1,0 +1,13 @@
+name: getter
+version: 0.1.0
+
+authors:
+  - Kevin Blues <kbluescode@gmail.com>
+
+targets:
+  getter:
+    main: src/getter.cr
+
+crystal: 0.27.2
+
+license: MIT
